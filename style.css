@@ -1,0 +1,62 @@
+
+.WF-section {
+    text-align: center;
+    background-color: #ebebeb;
+    font-size: 18px;
+    overflow: auto;
+    padding-top: 25px;
+    color: #777;
+}
+
+#full-span-element {
+    height: 50px;
+    margin: 20px 0px 20px 0px;
+}
+
+#sub-section {
+
+}
+
+body {
+    margin: auto;
+    background-color: #777;
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+  
+article {
+    text-align: center;
+    background-color: #777;
+    color: #ebebeb;
+    font-size: 18px;
+    overflow: auto;
+    padding-top: 25px;
+    margin: 10px;
+}
+
+section {
+    width: 495px;
+    float: left;
+    margin: 0px 20px 20px 0px;
+    height: 250px;
+}
+
+aside {
+    width: 440px;
+    float: right;
+    height: 250px;
+}
+  
+footer {
+    margin-top: 100px;
+    clear: both;
+}
+
+p {
+    background-color: #ebebeb;
+    color: #777;
+    margin: 20px;
+    height: 30px;
+    padding-top: 15px;
+}
